@@ -1,0 +1,114 @@
+2014/05/19 10:32:03 [alert] 44655#0: lua_code_cache is off; this will hurt performance in /Users/rmartin/Development/lua/resty-sample/conf/nginx.conf:18
+2014/05/19 10:32:35 [alert] 44667#0: lua_code_cache is off; this will hurt performance in /Users/rmartin/Development/lua/resty-sample/conf/nginx.conf:18
+2014/05/19 10:57:02 [alert] 48990#0: lua_code_cache is off; this will hurt performance in /Users/rmartin/Development/lua/resty-redis/conf/nginx.conf:18
+2014/05/19 11:16:22 [alert] 49117#0: lua_code_cache is off; this will hurt performance in /Users/rmartin/Development/lua/resty-redis/conf/nginx.conf:18
+2014/05/19 11:16:22 [emerg] 49117#0: unexpected end of file, expecting ";" or "}" in /Users/rmartin/Development/lua/resty-redis/conf/nginx.conf:33
+2014/05/19 11:16:23 [alert] 49125#0: lua_code_cache is off; this will hurt performance in /Users/rmartin/Development/lua/resty-redis/conf/nginx.conf:18
+2014/05/19 11:16:23 [emerg] 49125#0: unexpected end of file, expecting ";" or "}" in /Users/rmartin/Development/lua/resty-redis/conf/nginx.conf:33
+2014/05/19 11:16:50 [alert] 49135#0: lua_code_cache is off; this will hurt performance in /Users/rmartin/Development/lua/resty-redis/conf/nginx.conf:18
+2014/05/19 11:16:50 [emerg] 49135#0: unexpected "}" in /Users/rmartin/Development/lua/resty-redis/conf/nginx.conf:31
+2014/05/19 11:17:10 [alert] 49144#0: lua_code_cache is off; this will hurt performance in /Users/rmartin/Development/lua/resty-redis/conf/nginx.conf:18
+2014/05/19 11:18:42 [alert] 49164#0: lua_code_cache is off; this will hurt performance in /Users/rmartin/Development/lua/resty-redis/conf/nginx.conf:18
+2014/05/19 11:26:20 [alert] 49213#0: lua_code_cache is off; this will hurt performance in /Users/rmartin/Development/lua/resty-redis/conf/nginx.conf:18
+2014/05/19 11:26:20 [emerg] 49213#0: "lua_package_path" directive is not allowed here in /Users/rmartin/Development/lua/resty-redis/conf/nginx.conf:19
+2014/05/19 11:26:50 [alert] 49223#0: lua_code_cache is off; this will hurt performance in /Users/rmartin/Development/lua/resty-redis/conf/nginx.conf:19
+2014/05/19 11:27:35 [alert] 49238#0: lua_code_cache is off; this will hurt performance in /Users/rmartin/Development/lua/resty-redis/conf/nginx.conf:19
+2014/05/19 11:30:15 [alert] 49265#0: lua_code_cache is off; this will hurt performance in /Users/rmartin/Development/lua/resty-redis/conf/nginx.conf:19
+2014/05/19 11:32:59 [alert] 49290#0: lua_code_cache is off; this will hurt performance in /Users/rmartin/Development/lua/resty-redis/conf/nginx.conf:19
+2014/05/19 11:37:17 [alert] 49400#0: lua_code_cache is off; this will hurt performance in /Users/rmartin/Development/lua/resty-redis/conf/nginx.conf:19
+2014/05/19 11:43:09 [alert] 49443#0: lua_code_cache is off; this will hurt performance in /Users/rmartin/Development/lua/resty-redis/conf/nginx.conf:19
+2014/05/19 11:46:59 [alert] 49472#0: lua_code_cache is off; this will hurt performance in /Users/rmartin/Development/lua/resty-redis/conf/nginx.conf:19
+2014/05/19 12:13:34 [alert] 49615#0: lua_code_cache is off; this will hurt performance in /Users/rmartin/Development/lua/resty-redis/conf/nginx.conf:20
+2014/05/19 12:45:43 [alert] 49858#0: lua_code_cache is off; this will hurt performance in /Users/rmartin/Development/lua/resty-redis/conf/nginx.conf:23
+2014/05/19 12:51:14 [alert] 50000#0: lua_code_cache is off; this will hurt performance in /Users/rmartin/Development/lua/resty-redis/conf/nginx.conf:23
+2014/05/19 12:53:02 [alert] 50022#0: lua_code_cache is off; this will hurt performance in /Users/rmartin/Development/lua/resty-redis/conf/nginx.conf:23
+2014/05/19 12:59:32 [alert] 50071#0: lua_code_cache is off; this will hurt performance in /Users/rmartin/Development/lua/resty-redis/conf/nginx.conf:22
+2014/05/19 12:59:56 [alert] 50083#0: lua_code_cache is off; this will hurt performance in /Users/rmartin/Development/lua/resty-redis/conf/nginx.conf:23
+2014/05/19 13:02:54 [alert] 50111#0: lua_code_cache is off; this will hurt performance in /Users/rmartin/Development/lua/resty-redis/conf/nginx.conf:23
+2014/05/19 13:09:45 [alert] 50156#0: lua_code_cache is off; this will hurt performance in /Users/rmartin/Development/lua/resty-redis/conf/nginx.conf:23
+2014/05/19 13:10:22 [alert] 50168#0: lua_code_cache is off; this will hurt performance in /Users/rmartin/Development/lua/resty-redis/conf/nginx.conf:23
+2014/05/19 13:10:43 [alert] 50179#0: lua_code_cache is off; this will hurt performance in /Users/rmartin/Development/lua/resty-redis/conf/nginx.conf:23
+2014/05/19 14:30:31 [alert] 50688#0: lua_code_cache is off; this will hurt performance in /Users/rmartin/Development/lua/resty-redis/conf/nginx.conf:23
+2014/05/19 14:34:02 [alert] 50719#0: lua_code_cache is off; this will hurt performance in /Users/rmartin/Development/lua/resty-redis/conf/nginx.conf:23
+2014/05/19 14:34:02 [notice] 50719#0: [lua] app.lua:15: App invoked
+2014/05/19 14:35:14 [notice] 50734#0: [lua] app.lua:15: App invoked
+2014/05/19 14:36:56 [alert] 50752#0: lua_code_cache is off; this will hurt performance in /Users/rmartin/Development/lua/resty-redis/conf/nginx.conf:23
+2014/05/19 14:36:56 [notice] 50752#0: [lua] app.lua:15: App invoked
+2014/05/19 14:37:55 [notice] 50767#0: [lua] app.lua:15: App invoked
+2014/05/19 14:39:59 [notice] 50793#0: [lua] app.lua:15: App invoked
+2014/05/19 14:48:41 [notice] 51060#0: [lua] app.lua:15: App invoked
+2014/05/19 14:49:21 [alert] 51074#0: lua_code_cache is off; this will hurt performance in /Users/rmartin/Development/lua/resty-redis/conf/nginx.conf:23
+2014/05/19 14:49:21 [notice] 51074#0: [lua] app.lua:15: App invoked
+2014/05/19 14:50:04 [notice] 51087#0: [lua] app.lua:15: App invoked
+2014/05/19 14:54:51 [error] 51124#0: init_by_lua error: ./app.lua:15: bad argument #1 to 'log' (number expected, got string)
+stack traceback:
+	[C]: in function 'log'
+	./app.lua:15: in main chunk
+	[C]: in function 'require'
+	init_by_lua:3: in main chunk
+2014/05/19 14:56:33 [error] 51157#0: init_by_lua error: ./app.lua:15: bad argument #1 to 'log' (bad log level: -1)
+stack traceback:
+	[C]: in function 'log'
+	./app.lua:15: in main chunk
+	[C]: in function 'require'
+	init_by_lua:3: in main chunk
+2014/05/19 14:57:22 [error] 51170#0: [lua] app.lua:15: App invoked
+2014/05/19 14:58:41 [error] 51194#0: [lua] app.lua:15: App invoked
+2014/05/19 14:59:15 [alert] 51207#0: lua_code_cache is off; this will hurt performance in /Users/rmartin/Development/lua/resty-redis/conf/nginx.conf:23
+2014/05/19 14:59:15 [error] 51207#0: [lua] app.lua:15: App invoked
+2014/05/19 15:01:14 [alert] 51231#0: lua_code_cache is off; this will hurt performance in /Users/rmartin/Development/lua/resty-redis/conf/nginx.conf:23
+2014/05/19 15:02:20 [alert] 51245#0: lua_code_cache is off; this will hurt performance in /Users/rmartin/Development/lua/resty-redis/conf/nginx.conf:23
+2014/05/19 15:02:55 [alert] 51259#0: lua_code_cache is off; this will hurt performance in /Users/rmartin/Development/lua/resty-redis/conf/nginx.conf:23
+2014/05/19 15:02:55 [error] 51259#0: [lua] app.lua:15: App invoked
+2014/05/19 15:04:49 [error] 51278#0: [lua] app.lua:15: App invoked
+2014/05/19 15:08:15 [alert] 51310#0: lua_code_cache is off; this will hurt performance in /Users/rmartin/Development/lua/resty-redis/conf/nginx.conf:23
+2014/05/19 15:08:15 [error] 51310#0: [lua] app.lua:15: App invoked
+2014/05/19 15:25:19 [alert] 52223#0: lua_code_cache is off; this will hurt performance in /Users/rmartin/Development/lua/resty-redis/conf/nginx.conf:23
+2014/05/19 15:26:16 [alert] 52262#0: lua_code_cache is off; this will hurt performance in /Users/rmartin/Development/lua/resty-redis/conf/nginx.conf:23
+2014/05/19 15:26:51 [alert] 52298#0: lua_code_cache is off; this will hurt performance in /Users/rmartin/Development/lua/resty-redis/conf/nginx.conf:23
+2014/05/19 15:27:47 [alert] 52337#0: lua_code_cache is off; this will hurt performance in /Users/rmartin/Development/lua/resty-redis/conf/nginx.conf:23
+2014/05/19 15:28:16 [alert] 52374#0: lua_code_cache is off; this will hurt performance in /Users/rmartin/Development/lua/resty-redis/conf/nginx.conf:23
+2014/05/19 15:29:19 [alert] 52417#0: lua_code_cache is off; this will hurt performance in /Users/rmartin/Development/lua/resty-redis/conf/nginx.conf:23
+2014/05/19 15:29:54 [alert] 52454#0: lua_code_cache is off; this will hurt performance in /Users/rmartin/Development/lua/resty-redis/conf/nginx.conf:23
+2014/05/19 15:35:53 [alert] 52529#0: lua_code_cache is off; this will hurt performance in /Users/rmartin/Development/lua/resty-redis/conf/nginx.conf:23
+2014/05/19 15:36:58 [alert] 52568#0: lua_code_cache is off; this will hurt performance in /Users/rmartin/Development/lua/resty-redis/conf/nginx.conf:23
+2014/05/19 15:38:37 [alert] 52613#0: lua_code_cache is off; this will hurt performance in /Users/rmartin/Development/lua/resty-redis/conf/nginx.conf:23
+2014/05/19 16:02:34 [alert] 52806#0: lua_code_cache is off; this will hurt performance in /Users/rmartin/Development/lua/resty-redis/conf/nginx.conf:24
+2014/05/19 16:28:22 [alert] 52989#0: lua_code_cache is off; this will hurt performance in /Users/rmartin/Development/lua/resty-redis/conf/nginx.conf:24
+2014/05/19 16:28:22 [error] 52989#0: init_by_lua error: /usr/local/lualib/resty/redis.lua:100: no request found
+stack traceback:
+	[C]: in function 'tcp'
+	/usr/local/lualib/resty/redis.lua:100: in function 'new'
+	./app.lua:4: in main chunk
+	[C]: in function 'require'
+	init_by_lua:3: in main chunk
+2014/05/19 16:28:55 [alert] 53024#0: lua_code_cache is off; this will hurt performance in /Users/rmartin/Development/lua/resty-redis/conf/nginx.conf:23
+2014/05/19 16:28:55 [error] 53024#0: init_by_lua error: ./app.lua:3: module 'redis' not found:
+	no field package.preload['redis']
+	no file '/usr/local/lualib/redis.lua'
+	no file '/usr/local/lualib/redis/init.lua'
+	no file './redis.lua'
+	no file '/usr/local/luajit/share/luajit-2.1.0-alpha/redis.lua'
+	no file '/usr/local/share/lua/5.1/redis.lua'
+	no file '/usr/local/share/lua/5.1/redis/init.lua'
+	no file '/usr/local/luajit/share/lua/5.1/redis.lua'
+	no file '/usr/local/luajit/share/lua/5.1/redis/init.lua'
+	no file '/usr/local/lualib/redis.so'
+	no file './redis.so'
+	no file '/usr/local/lib/lua/5.1/redis.so'
+	no file '/usr/local/luajit/lib/lua/5.1/redis.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+stack traceback:
+	[C]: in function 'require'
+	./app.lua:3: in main chunk
+	[C]: in function 'require'
+	init_by_lua:2: in main chunk
+2014/05/19 16:29:46 [alert] 53063#0: lua_code_cache is off; this will hurt performance in /Users/rmartin/Development/lua/resty-redis/conf/nginx.conf:23
+2014/05/19 16:29:46 [error] 53063#0: init_by_lua error: /usr/local/lualib/resty/redis.lua:100: no request found
+stack traceback:
+	[C]: in function 'tcp'
+	/usr/local/lualib/resty/redis.lua:100: in function 'new'
+	./app.lua:4: in main chunk
+	[C]: in function 'require'
+	init_by_lua:2: in main chunk
+2014/05/19 16:56:25 [alert] 53227#0: lua_code_cache is off; this will hurt performance in /Users/rmartin/Development/lua/resty-redis/conf/nginx.conf:23
