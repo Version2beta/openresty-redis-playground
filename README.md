@@ -18,9 +18,9 @@ OpenResty's `./configure` step needs to know where the pcre code lives, so run t
 
 `brew install redis` - because it's my playground and I'm bringing the toys.
 
-Install [https://github.com/hecticjeff/shoreman](https://github.com/hecticjeff/shoreman), because it's the Procfile runner I'm using.
+Install [https://github.com/hecticjeff/shoreman](https://github.com/hecticjeff/shoreman), because it's the Procfile runner I'm using: `brew install --HEAD hecticjeff/formula/shoreman`.
 
-Install [https://bitbucket.org/eradman/entr/](https://bitbucket.org/eradman/entr/), because it triggers the test runner.
+Install [https://bitbucket.org/eradman/entr/](https://bitbucket.org/eradman/entr/), because it triggers the test runner: `brew install entr`.
 
 `xargs luarocks install <requirements.txt` - install the Lua prerequisites.
 
