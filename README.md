@@ -47,3 +47,7 @@ ln -s /usr/local/openresty/nginx/sbin/nginx /usr/local/bin/openresty
 `launchctl start homebrew.mxcl.redis` - Make sure Redis is running, just in case it's stopped.
 
 From the top directory of the repository, start OpenResty and the test runner: `shoreman`.
+
+## Credit
+
+My starting point and help along the way came from my [Peer60 Inc.](http://peer60.com) coworker [Jason Staten](https://github.com/statianzo/). Thanks also to participants on the #lua IRC channel who provided feedback and advice.
