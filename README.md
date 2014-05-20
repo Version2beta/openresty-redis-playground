@@ -1,6 +1,12 @@
 # Playing with OpenResty
 
-This repository is just a playground for figuring out my OpenResty dev environment.
+This repository is a playground for figuring out my OpenResty dev environment.
+
+It can be used as a starting point for a new OpenResty project:
+
+* Build your app under the `app/` directory, starting with `app/init.lua`.
+* Add any Lua libraries you need to requirements.txt.
+* Update this file, README.md.
 
 ## OpenResty installation (OS X Mavericks)
 
@@ -11,6 +17,12 @@ This repository is just a playground for figuring out my OpenResty dev environme
 OpenResty's `./configure` step needs to know where the pcre code lives, so run this command to make sure that command is right: `mdfind pcre | grep usr/local`.
 
 `brew install redis` - because it's my playground and I'm bringing the toys.
+
+Install [https://github.com/hecticjeff/shoreman](https://github.com/hecticjeff/shoreman), because it's the Procfile runner I'm using.
+
+Install [https://bitbucket.org/eradman/entr/](https://bitbucket.org/eradman/entr/), because it triggers the test runner.
+
+`xargs luarocks install <requirements.txt` - install the Lua prerequisites.
 
 Install OpenResty:
 
